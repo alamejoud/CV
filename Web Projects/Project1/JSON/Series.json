@@ -1,0 +1,272 @@
+[
+    {
+        "id": 0,
+        "name": "Dahmer - Monster: The Jeffrey Dahmer",
+        "rating": 8.7,
+        "description": "This television series tackles the motives of Jeffrey Dahmer and how he became one of the most notorious serial killers in America. His murders—which consisted of men and adolescent boys—were executed in Milwaukee, Wisconsin and Ohio between 1978 and 1991.",
+        "youtube_id": "NVHHs-xllqo",
+        "img_banner": "Dahmer.jpg",
+        "genre": "Thriller, Crime Fiction"
+    },
+    {
+        "id": 1,
+        "name": "F.R.I.E.N.D.S",
+        "rating": 9,
+        "description": "Friends is a 90's Comedy TV show, based in Manhattan, about 6 friends who go through just about every life experience imaginable together; love, marriage, divorce, children, heartbreaks, fights, new jobs and job losses and all sorts of drama.",
+        "youtube_id": "NiC1WU2b2mU",
+        "img_banner": "Friends.jpg",
+        "genre": "Sitcom, Romance, Comedy"
+    },
+    {
+        "id": 2,
+        "name": "Breaking Bad",
+        "rating": 8.5,
+        "description": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student in order to secure his family's future. Walter H. White is a chemistry genius, but works as a chemistry teacher in an Albequerque, New Mexico high school.",
+        "youtube_id": "HhesaQXLuRY",
+        "img_banner": "Breaking_Bad.jpg",
+        "genre": "Dark comedy, Suspense, Drama"
+    },
+    {
+        "id": 3,
+        "name": "Game of Thrones",
+        "rating": 8.6,
+        "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia. In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms.",
+        "youtube_id": "KPLWWIOCOOQ",
+        "img_banner": "GOT.jpg",
+        "genre": "Action, Drama, Thriller"
+    },
+    {
+        "id": 4,
+        "name": "Stranger Things",
+        "rating": 8.4,
+        "description": "Stranger Things is set in 1980s Indiana, where a teen with powerful psychic powers escapes a sinister government installation. Eleven joins forces with local nerds Mike, Dustin, Lucas and Will to battle demogorgons, the Mind Flayer and other monsters, including the chillingly calculating Dr Brenner",
+        "youtube_id": "yQEondeGvKo",
+        "img_banner": "Stranger_Things.jpg",
+        "genre": "Horror, Supernatural, Thriller"
+    },
+    {
+        "id": 5,
+        "name": "The Office",
+        "rating": 8.5,
+        "description": "This mockumentary follows the everyday lives of the manager and the employees he \"manages.\" The crew follows the employees around 24/7 and captures their quite humorous and bizarre encounters as they will do what it takes to keep the company thriving. This U.S. adaptation -- set at a paper company in Scranton, Pa.",
+        "youtube_id": "tNcDHWpselE",
+        "img_banner": "The_Office.jpg",
+        "genre": "Sitcom, Comedy"
+    },
+    {
+        "id": 6,
+        "name": "Attack on Titans",
+        "rating": 8,
+        "description": "Attack On Titan is about how a boy's life changes when he loses his family to titans. The main protagonist is a 15-year-old named Eren Yeager who lives with his sister and parents until one day, his village is destroyed by giants called titans.",
+        "youtube_id": "MGRm4IzK1SQ",
+        "img_banner": "AOT.jpg",
+        "genre": "Anime, Horror, Adventure"
+    },
+    {
+        "id": 7,
+        "name": "How I Met Your Mother?",
+        "rating": 8.1,
+        "description": "The series follows the adventures of Ted Mosby (played by Josh Radnor) and his love life as a single man. His stories are narrated by Bob Saget as Ted Mosby 25 years later as he tells them to his adolescent children.",
+        "youtube_id": "aJtVL2_fA5w",
+        "img_banner": "How_I_Met_Your_Mother.jpg",
+        "genre": "Sitcom, Comedy, Romance"
+    },
+    {
+        "id": 8,
+        "name": "The Big Bang Theory",
+        "rating": 7.2,
+        "description": "The Big Bang Theory is a comedy about brilliant physicists, Leonard and Sheldon, who are the kind of \"beautiful minds\" that understand how the universe works. But none of that genius helps them interact with people, especially women. All this begins to change when a free-spirited beauty named Penny moves in next door.",
+        "youtube_id": "HwntbsRIYNs",
+        "img_banner": "The_Big_Bang_Theory.jpg",
+        "genre": "Sitcom, Comedy"
+    },
+    {
+        "id": 9,
+        "name": "Brooklyn 99",
+        "rating": 7.5,
+        "description": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct. Captain Ray Holt takes over Brooklyn's 99th precinct, which includes Detective Jake Peralta, a talented but carefree detective who's used to doing whatever he wants.",
+        "youtube_id": "15syDwC000k",
+        "img_banner": "Brooklyn_99.jpg",
+        "genre": "Sitcom, Comedy, Police Procedural"
+    },
+    {
+        "id": 10,
+        "name": "Suits",
+        "rating": 7.4,
+        "description": "Set at a fictional New York City law firm, it follows Mike Ross (Patrick J. Adams), who uses his eidetic memory to talk his way into a job as an associate working for successful closer Harvey Specter (Gabriel Macht), despite being a college dropout who never attended law school.",
+        "youtube_id": "85z53bAebsI",
+        "img_banner": "Suits.jpg",
+        "genre": "Drama, Comedy, Legal Drama"
+    },
+    {
+        "id": 11,
+        "name": "Lucifer",
+        "rating": 7.9,
+        "description": "The series revolves around the story of Lucifer Morningstar (Tom Ellis), the DC Universe's version of the Devil, who abandons Hell for Los Angeles where he runs his own nightclub named Lux and becomes a consultant to the Los Angeles Police Department (LAPD).",
+        "youtube_id": "X4bF_quwNtw",
+        "img_banner": "Lucifer.jpg",
+        "genre": "Comedy, Police Procedural, Mystery"
+    },
+    {
+        "id": 12,
+        "name": "The 100",
+        "rating": 7.2,
+        "description": "Set 97 years after a nuclear war destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth, hoping to repopulate the planet. The series is set 97 years after a devastating nuclear war wiped out almost all life on Earth.",
+        "youtube_id": "ia1Fbg96vL0",
+        "img_banner": "The_100.jpg",
+        "genre": "Sci-Fi, Adventure, Drama"
+    },
+    {
+        "id": 13,
+        "name": "You",
+        "rating": 8.6,
+        "description": "The first season, which is based on the novel You, premiered on Lifetime in September 2018, and follows Joe Goldberg, a bookstore manager and serial killer who falls in love and develops an extreme obsession. The season stars Penn Badgley, Elizabeth Lail, Luca Padovan, Zach Cherry, and Shay Mitchell.",
+        "youtube_id": "srx7fSBwvF4",
+        "img_banner": "You.jpg",
+        "genre": "Thriller, Crime"
+    },
+    {
+        "id": 14,
+        "name": "House M.D.",
+        "rating": 7.7,
+        "description": "The series follows the life of anti-social, pain killer addict, witty and arrogant medical doctor Gregory House (Hugh Laurie) with only half a muscle in his right leg. He and his team of medical doctors try to cure complex and rare diseases from very ill ordinary people in the United States of America.",
+        "youtube_id": "MczMB8nU1sY",
+        "img_banner": "House_MD.jpg",
+        "genre": "Drama, Medical Comedy"
+    },
+    {
+        "id": 15,
+        "name": "The Witcher",
+        "rating": 7.5,
+        "description": "The Witcher follows the story of Geralt of Rivia, a solitary monster hunter, who struggles to find his place in a world where people often prove more wicked than monsters and beasts.",
+        "youtube_id": "ndl1W4ltcmg",
+        "img_banner": "The_Witcher.jpg",
+        "genre": "Adventure, Fantasy, Drama"
+    },
+    {
+        "id": 16,
+        "name": "The Watcher",
+        "rating": 7,
+        "description": "The Watcher is an exciting psychological thriller that takes a unique look into the minds of both a serial killer and the man who must, reluctantly, pursue him. In an almost Hitchcockian way, the film quickly introduces us to the killer, David Allen Griffin, played by Keanu Reeves, who for many years, preyed on lonely young women in the Los Angeles area. The story is set up to create a taut cat-and-mouse game between Griffin and FBI agent Joel Campbell.",
+        "youtube_id": "5HDkw100sXQ",
+        "img_banner": "Watcher.jpg",
+        "genre": "Horror, Thriller, Drama"
+    },
+    {
+        "id": 17,
+        "name": "Better Call Saul",
+        "rating": 7.3,
+        "description": "'Better Call Saul' is the origin story of a man trying to survive in a harsh, exploitative world where anyone and everyone will try and take him, and his dreams, down. Meet James M. McGill Esq. Attorney-at-law AKA Slippin' Jimmy AKA Saul Goodman.",
+        "youtube_id": "Qz3u06eXf0E",
+        "img_banner": "better_Call_Saul.jpg",
+        "genre": "Comedy, Drama, Crime"
+    },
+    {
+        "id": 18,
+        "name": "Narcos: Mexico",
+        "rating": 7,
+        "description": "It dramatizes the creation and rise of the Guadalajara Cartel in the 1980s as Miguel Ángel Félix Gallardo (Diego Luna) unifies several plazas, or territories, in order to build an infamous drug empire.",
+        "youtube_id": "BoDrQ8JktVg",
+        "img_banner": "Narcos_Mexico.jpg",
+        "genre": "Crime, Drama"
+    },
+    {
+        "id": 19,
+        "name": "Riverdale",
+        "rating": 7,
+        "description": "After a teenager was murdered within the town of Riverdale, a group of teenagers, the jock Archie, the girl next door Betty, the new girl Veronica and the outcast Jughead try to unravel the evils lurking within this seemingly innocent town.",
+        "youtube_id": "HxtLlByaYTc",
+        "img_banner": "Riverdale.jpg",
+        "genre": "Horror, Supernatural, Mystery"
+    },
+    {
+        "id": 20,
+        "name": "Peaky Blinders",
+        "rating": 8.6,
+        "description": "Peaky Blinders is a crime drama centred on a family of mixed Irish Traveller and Romani origins based in Birmingham, England, starting in 1919, several months after the end of the First World War. It centres on the Peaky Blinders street gang and their ambitious, cunning crime boss Tommy Shelby (Murphy).",
+        "youtube_id": "2nsT9uQPIrk",
+        "img_banner": "Peaky_Blinders.jpg",
+        "genre": "Historical, Drama, Crime"
+    },
+    {
+        "id": 21,
+        "name": "Rick and Morty",
+        "rating": 8.7,
+        "description": "Rick and Morty is the Emmy award-winning half-hour animated hit comedy series on Adult Swim that follows a sociopathic genius scientist who drags his inherently timid grandson on insanely dangerous adventures across the universe.",
+        "youtube_id": "jerFRSQW9g8",
+        "img_banner": "Rick_And_Morty.jpg",
+        "genre": "Sitcom, Comedy, Animation"
+    },
+    {
+        "id": 22,
+        "name": "Family Guy",
+        "rating": 8.9,
+        "description": "In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another. Sick, twisted and politically incorrect, the animated series features the adventures of the Griffin family.",
+        "youtube_id": "roeWUfVaGsc",
+        "img_banner": "Family_Guy.jpg",
+        "genre": "Comedy, Animation, Sitcom"
+    },
+    {
+        "id": 23,
+        "name": "Death Note",
+        "rating": 7.7,
+        "description": "Based on the famous Japanese manga written by Tsugumi Ohba and Takeshi Obata, Death Note follows a high school student who comes across a supernatural notebook, realizing it holds within it a great power; if the owner inscribes someone's name into it while picturing their face, he or she will die.",
+        "youtube_id": "NlJZ-YgAt-c",
+        "img_banner": "Death_Note.jpg",
+        "genre": "Mystery, Anime, Thriller"
+    },
+    {
+        "id": 24,
+        "name": "Demon Slayer",
+        "rating": 7.9,
+        "description": "A family is attacked by demons and only two members survive - Tanjiro and his sister Nezuko, who is turning into a demon slowly. Tanjiro sets out to become a demon slayer to avenge his family and cure his sister.",
+        "youtube_id": "VQGCKyvzIM4",
+        "img_banner": "Demon_Slayer.jpg",
+        "genre": "Anime, Adventure, Fantasy"
+    },
+    {
+        "id": 25,
+        "name": "The Walking Dead",
+        "rating": 8.2,
+        "description": "The series features a large ensemble cast as survivors of a zombie apocalypse trying to stay alive under near-constant threat of attacks from zombies known as \"walkers\" (among other nicknames).",
+        "youtube_id": "R1v0uFms68U",
+        "img_banner": "The_Walking_Dead.jpg",
+        "genre": "Horror, Thriller, Suspense"
+    },
+    {
+        "id": 26,
+        "name": "The Good Doctor",
+        "rating": 7.7,
+        "description": "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital. Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital surgical unit.",
+        "youtube_id": "fYlZDTru55g",
+        "img_banner": "The_Good_Doctor.jpg",
+        "genre": "Medical Drama"
+    },
+    {
+        "id": 27,
+        "name": "Squid Game",
+        "rating": 8.7,
+        "description": "Seong Gi-hun, a divorced father and indebted gambler who lives with his elderly mother, is invited to play a series of children's games for a chance at a large cash prize. Accepting the offer, he is taken to an unknown location where he finds himself among 455 other players who are all in deep financial trouble.",
+        "youtube_id": "oqxAJKy0ii4",
+        "img_banner": "Squid_Game.jpg",
+        "genre": "Action, Survival, Mystery"
+    },
+    {
+        "id": 28,
+        "name": "Modern Family",
+        "rating": 7.1,
+        "description": "Modern Family revolves around three different types of families (nuclear, blended, and same-sex) living in the Los Angeles area, who are interrelated through Jay Pritchett and his children, daughter Claire and son Mitchell.",
+        "youtube_id": "KO29jdnEiAs",
+        "img_banner": "Modern_Family.jpg",
+        "genre": "Sitcom, Comedy, Pseudo-Documentary"
+    },
+    {
+        "id": 29,
+        "name": "Money Heist",
+        "rating": 8,
+        "description": "'The House of Paper' is a Spanish heist crime drama television series created by Álex Pina. The series traces two long-prepared heists led by the Professor (Álvaro Morte), one on the Royal Mint of Spain, and one on the Bank of Spain, told from the perspective of one of the robbers, Tokyo (Úrsula Corberó).",
+        "youtube_id": "KO29jdnEiAs",
+        "img_banner": "Money_Heist.jpg",
+        "genre": "Drama, Crime, Thriller"
+    }
+]

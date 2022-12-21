@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Login</title>
+
+        <link
+            rel="shortcut icon"
+            href="../Images/Log.png"
+            type="image/x-icon"
+        />
+        <link rel="stylesheet" href="../CSS/Login.css" />
+    </head>
+
+    <body>
+        <form method="POST" action="../PHP/login.php" class="login">
+            <div>
+                <label id="title">Welcome Back</label><br /><br />
+                <hr />
+            </div>
+
+            <div class="grid_container">
+                <label for="username" id="user">Username</label>
+                <input type="text" name="username" id="username" required />
+
+                <label for="password" id="pass">Password</label>
+                <input type="password" name="password" id="password" required />
+                <button type="button" id="toggle"></button>
+            </div>
+
+            <div class="login_btn">
+                <input
+                    type="submit"
+                    value="User Login"
+                    id="user_button"
+                    name="UserLogin"
+                />
+
+                <input
+                    type="submit"
+                    value="Staff Login"
+                    id="staff_button"
+                    name="StaffLogin"
+                />
+            </div>
+            <hr width="80%" />
+
+            <div class="footer">
+                <a href="SignUp.html" id="sign_up">Register</a>
+                <a href="forgetPassword.html" id="Forgot">Forgot Password?</a>
+            </div>
+        </form>
+
+        <script src="../JavaScript/passwordToggle.js"></script>
+    </body>
+</html>

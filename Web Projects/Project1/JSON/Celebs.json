@@ -1,0 +1,110 @@
+[
+    {
+        "id": 0,
+        "name": "Dwayne \"The Rock\" Johnson",
+        "age": 50,
+        "img": "The_Rock.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Angelina Jolie",
+        "age": 47,
+        "img": "Angelina_Jolie.webp"
+    },
+    {
+        "id": 2,
+        "name": "Jennifer Aniston",
+        "age": 53,
+        "img": "Jennifer_Aniston.webp"
+    },
+    {
+        "id": 3,
+        "name": "Leonardo Dicaprio",
+        "age": 47,
+        "img": "Leonardo_Dicaprio.webp"
+    },
+    {
+        "id": 4,
+        "name": "Brad Pitt",
+        "age": 58,
+        "img": "Brad_Pitt.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tom Cruise",
+        "age": 60,
+        "img": "Tom_Cruise.webp"
+    },
+    {
+        "id": 6,
+        "name": "Johnny Depp",
+        "age": 59,
+        "img": "Johnny_Depp.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Tom Hanks",
+        "age": 66,
+        "img": "Tom_Hanks.webp"
+    },
+    {
+        "id": 8,
+        "name": "Will Smith",
+        "age": 54,
+        "img": "Will_Smith.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Scarlett Johansson",
+        "age": 37,
+        "img": "Scarlett_Johansson.webp"
+    },
+    {
+        "id": 10,
+        "name": "Jennifer Lawrence",
+        "age": 32,
+        "img": "Jennifer_Lawrence.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Ryan Reynolds",
+        "age": 46,
+        "img": "Ryan_Reynolds.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Emma Stone",
+        "age": 33,
+        "img": "Emma_Stone.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Vin Diesel",
+        "age": 55,
+        "img": "Vin_Diesel.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Chris Hemsworth",
+        "age": 39,
+        "img": "Chris_Hemsworth.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Chris Evans",
+        "age": 41,
+        "img": "Chris_Evans.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Robert Downey Jr.",
+        "age": 57,
+        "img": "Robert_Downey_Jr.webp"
+    },
+    {
+        "id": 17,
+        "name": "Paul Rudd",
+        "age": 53,
+        "img": "Paul_Rudd.jpg"
+    }
+]
