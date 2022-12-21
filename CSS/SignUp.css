@@ -1,0 +1,267 @@
+:root {
+    --angle: 45deg;
+    --opacity: 0.5;
+}
+
+@supports (background: paint(houdini)) {
+    @property --opacity {
+        syntax: "<number>";
+        initial-value: 0.5;
+        inherits: false;
+    }
+
+    @property --angle {
+        syntax: "<angle>";
+        initial-value: 0deg;
+        inherits: false;
+    }
+
+    @keyframes opacityChange {
+        to {
+            --opacity: 1;
+        }
+    }
+
+    @keyframes rotate {
+        to {
+            --angle: 360deg;
+        }
+    }
+
+    @-moz-keyframes opacityChange {
+        to {
+            --opacity: 1;
+        }
+    }
+
+    @-moz-keyframes rotate {
+        to {
+            --angle: 360deg;
+        }
+    }
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+body {
+    background-color: #1a1a1d;
+    background-image: url("../Images/Space.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+
+    animation: fadeIn 1s;
+    -moz-animation: fadeIn 1s;
+    -webkit-animation: fadeIn 1s;
+    -o-animation: fadeIn 1s;
+    -ms-animation: fadeIn 1s;
+}
+
+.sign_up {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    margin-top: 5px;
+    height: 500px;
+    width: 415px;
+    padding: 40px;
+    text-align: center;
+
+    background-color: #1a1a1d;
+    color: white;
+    --border-size: 0.2em;
+    border: var(--border-size) solid transparent;
+    border-radius: 5px;
+    border-image: conic-gradient(
+            from var(--angle),
+            #0000 90deg 0deg,
+            #0000 90deg 180deg,
+            #c3073f 270deg 180deg,
+            #0000 360deg 270deg
+        )
+        1 stretch;
+    border-radius: 5px;
+
+    box-shadow: 0 0 10px #c3073f;
+    user-select: none;
+    z-index: 2;
+
+    animation: rotate 6s linear infinite, opacityChange 3s infinite alternate;
+    -moz-animation: rotate 10s linear infinite,
+        opacityChange 3s infinite alternate;
+}
+
+.sign_up span {
+    color: rgb(190, 0, 0);
+}
+
+.title label {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.title p {
+    font-size: 0.8em;
+    font-weight: lighter;
+    text-align: left;
+}
+
+.table table {
+    width: 100%;
+}
+
+.table td {
+    padding: 10px;
+    font-weight: 400;
+    font-size: medium;
+    background-color: none;
+}
+
+.table input {
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: #1a1a1d;
+    color: white;
+
+    font-weight: lighter;
+    font-size: small;
+    outline: none;
+    width: 240px;
+}
+
+.table input:focus {
+    border-bottom: 1px solid #c3073f;
+    transition: 0.25s;
+}
+
+.table #sign_btn {
+    background-color: #c3073f;
+    color: white;
+
+    font-weight: bold;
+
+    width: 100px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 12px;
+    margin-top: 8px;
+
+    outline: none;
+    cursor: pointer;
+}
+
+.table #sign_btn:hover {
+    background-color: #950740;
+    transition: 0.25s;
+}
+
+.end {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 15px;
+}
+
+.end #text {
+    font-size: 0.85em;
+    font-weight: lighter;
+}
+
+.end #login {
+    margin-top: 5px;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size: 1em;
+    color: #c3073f;
+}
+
+.Requirements {
+    position: fixed;
+    top: 70%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+
+    height: 200px;
+    width: 220px;
+ 
+    padding: 10px;
+    border-radius: 12px;
+    border: 1px solid #c3073f2f;
+    box-shadow: 0 0 10px #c3073f;
+
+    color: white;
+    background-color: rgba(26, 26, 29, 0.329);
+    z-index: 2;
+    visibility: hidden;
+}
+
+.Requirements > ul {
+    list-style-type: disc;
+    font-weight: light;
+    font-size: 0.9em;
+}
+
+.req {
+    color: white;
+    background-color: blue;
+    opacity: 1;
+}
+
+i {
+    color: red;
+}
+
+.show_req {
+    visibility: visible;
+}

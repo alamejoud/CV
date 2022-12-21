@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Admin</title>
+
+        <link
+            rel="shortcut icon"
+            href="../Images/Log.png"
+            type="image/x-icon"
+        />
+        <link rel="stylesheet" href="../CSS/AdminPage.css" />
+    </head>
+
+    <body>
+        <div class="side_Panel">
+            <div class="grid">
+                <div class="logo">
+                    <a href="../HTML/index.html"
+                        ><img src="../Images/NewLogo.png" alt=""
+                    /></a>
+                </div>
+
+                <label>Admin Panel</label>
+            </div>
+
+            <ul>
+                <li>
+                    <i class="fa-duotone fa-rocket-launch"></i>&ensp; Dashboard
+                </li>
+                <ul id="Options">
+                    <li><i class="fa-solid fa-ticket"></i> Movies</li>
+                    <li><i class="fa-solid fa-projector"></i> Series</li>
+                    <li>
+                        <i class="fa-solid fa-person-simple"></i> Celebrities
+                    </li>
+                </ul>
+            </ul>
+        </div>
+
+        <form method="post" action="../PHP/adminpage.php">
+            <div class="mainPanel">
+                <div class="info">
+                    <div class="Banner">
+                        <label for="banner"
+                            ><i class="fa-solid fa-plus"></i> Upload
+                            Banner</label
+                        >
+                        <input
+                            type="file"
+                            id="banner"
+                            accept="image/jpeg, image/png, image/jpg"
+                        />
+                    </div>
+                </div>
+            </div>
+        </form>
+
+        <script src="../JavaScript/AdminPage.js"></script>
+        <script src="../JavaScript/font.js"></script>
+    </body>
+</html>

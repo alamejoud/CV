@@ -1,0 +1,299 @@
+[
+    {
+        "id": 0,
+        "name": "The Wrath of Man",
+        "rating": 7.1,
+        "genre": "Action, Crime, Thriller",
+        "description": "H is a mysterious man who starts working for a cash moving truck company. He becomes known for using amazing precision and dexterity to neutralize robbers. However, H is actually out for revenge.",
+        "youtube_id": "EFYEni2gsK0",
+        "img_banner": "The_Wrath_Of_Man.jpg"
+    },
+    {
+        "id": 1,
+        "name": "The Man From Toronto",
+        "rating": 5.8,
+        "genre": "Action, Comedy",
+        "description": "A case of mistaken identity forces a bumbling entrepreneur to team up with a notorious assassin in hopes of staying alive.",
+        "youtube_id": "urqy8DrcGBs",
+        "img_banner": "The_Man_From_Toronto.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Red Notice",
+        "rating": 6.3,
+        "genre": "Action, Comedy",
+        "description": "In the world of international crime, an Interpol agent attempts to hunt down and capture the world's most wanted art thief.",
+        "youtube_id": "Pj0wz7zu3Ms",
+        "img_banner": "Red_Notice.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Assassin's Creed",
+        "rating": 5.6,
+        "genre": "Action, Adventure",
+        "description": "With the help of technology, Callum learns that he is a descendant of a dangerous society. He travels back in time to learn about his ancestors and acquire skills to defeat an evil organization.",
+        "youtube_id": "4haJD6W136c",
+        "img_banner": "Assassin's_Creed.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Spider-Man: No Way Home",
+        "rating": 8.3,
+        "genre": "Action, Adventure",
+        "description": "Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.",
+        "youtube_id": "JfVOs4VSpmA",
+        "img_banner": "Spider_Man_No_Way_Home.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Uncharted",
+        "rating": 6.3,
+        "genre": "Action, Adventure",
+        "description": "Victor Sullivan recruits Nathan Drake to help him find the lost fortune of Ferdinand Magellan. However, they face competition from Santiago Moncada, who believes that the treasure belongs to him.",
+        "youtube_id": "eHp3MbsCbMg",
+        "img_banner": "Uncharted.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Jumanji: The Next Level",
+        "rating": 7,
+        "genre": "Comedy, Adventure",
+        "description": "When Spencer goes missing, his group of friends return to Jumanji to travel unexplored territories and help him escape the world's most dangerous game.",
+        "youtube_id": "rBxcF-r9Ibs",
+        "img_banner": "Jumanji_The_Next_Episode.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Avengers: Endgame",
+        "rating": 6.8,
+        "description": "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers -- Thor, Black Widow, Captain America and Bruce Banner -- must figure out a way to bring back their vanquished allies for an epic showdown with Thanos -- the evil demigod who decimated the planet and the universe.",
+        "youtube_id": "TcMBFSGVi1c",
+        "img_banner": "Avengers_End_Game.jpg",
+        "genre": "Action, Fantasy, Sci-Fi"
+    },
+    {
+        "id": 8,
+        "name": "BayWatch",
+        "rating": 5.5,
+        "description": "When a dangerous crime wave hits the beach, the legendary Mitch Buchannon leads his elite squad of lifeguards on a mission to prove that you don't have to wear a badge to save the bay. Joined by a trio of hotshot recruits, including former Olympian Matt Brody, they ditch the surf and go deep under cover to take down a ruthless businesswoman whose devious plans threaten the future of the bay.",
+        "youtube_id": "eyKOgnaf0BU",
+        "img_banner": "Baywatch.jpg",
+        "genre": "Comedy, Action, Drama"
+    },
+    {
+        "id": 9,
+        "name": "Black Adam",
+        "rating": 7.1,
+        "description": "In ancient Kahndaq, Teth Adam was bestowed the almighty powers of the gods. After using these powers for vengeance, he was imprisoned, becoming Black Adam. Nearly 5,000 years have passed, and Black Adam has gone from man to myth to legend. Now free, his unique form of justice, born out of rage, is challenged by modern-day heroes who form the Justice Society: Hawkman, Dr. Fate, Atom Smasher and Cyclone.",
+        "youtube_id": "mkomfZHG5q4",
+        "img_banner": "Black_Adam.jpg",
+        "genre": "Action, Fantasy, Sci-Fi"
+    },
+    {
+        "id": 10,
+        "name": "Black Panther: Wakanda Forever",
+        "rating": 7.8,
+        "description": "Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T'Challa's death. As the Wakandans strive to embrace their next chapter, the heroes must band together with Nakia and Everett Ross to forge a new path for their beloved kingdom.",
+        "youtube_id": "RlOB3UALvrQ",
+        "img_banner": "Black_Panther.jpg",
+        "genre": "Action, Fantasy, Sci-Fi"
+    },
+    {
+        "id": 11,
+        "name": "Die Hard",
+        "rating": 8.2,
+        "description": "New York City policeman John McClane (Bruce Willis) is visiting his estranged wife (Bonnie Bedelia) and two daughters on Christmas Eve. He joins her at a holiday party in the headquarters of the Japanese-owned business she works for. But the festivities are interrupted by a group of terrorists who take over the exclusive high-rise, and everyone in it. Very soon McClane realizes that there's no one to save the hostages -- but him.",
+        "youtube_id": "gYWvwkXreaI",
+        "img_banner": "Die_Hard.jpg",
+        "genre": "Action, Thriller, Adventure"
+    },
+    {
+        "id": 12,
+        "name": "Doctor Strange: In the Multiverse of Madness",
+        "rating": 7.5,
+        "description": "Dr. Stephen Strange's (Benedict Cumberbatch) life changes after a car accident robs him of the use of his hands. When traditional medicine fails him, he looks for healing, and hope, in a mysterious enclave. He quickly learns that the enclave is at the front line of a battle against unseen dark forces bent on destroying reality. Before long, Strange is forced to choose between his life of fortune and status or leave it all behind to defend the world as the most powerful sorcerer in existence.",
+        "youtube_id": "aWzlQ2N6qqg",
+        "img_banner": "Doctor_Strange.jpg",
+        "genre": "Action, Fantasy, Sci-Fi"
+    },
+    {
+        "id": 13,
+        "name": "Fast and Furious 9",
+        "rating": 6.8,
+        "description": "Dom Toretto is living the quiet life off the grid with Letty and his son, but they know that danger always lurks just over the peaceful horizon. This time, that threat forces Dom to confront the sins of his past to save those he loves most. His crew soon comes together to stop a world-shattering plot by the most skilled assassin and high-performance driver they've ever encountered -- Dom's forsaken brother.",
+        "youtube_id": "aSiDu3Ywi8E",
+        "img_banner": "Fast_And_Furious_9.jpg",
+        "genre": "Action, Adventure, Thriller"
+    },
+    {
+        "id": 14,
+        "name": "Fight Club",
+        "rating": 8.3,
+        "description": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention.",
+        "youtube_id": "qtRKdVHc-cE",
+        "img_banner": "Fight_Club.jpg",
+        "genre": "Action, Drama, Thriller"
+    },
+    {
+        "id": 15,
+        "name": "Final Destination 1",
+        "rating": 6.5,
+        "description": "Alex Browning (Devon Sawa), is embarking on a trip to Paris. Alex experiences a premonition -- he sees the plane explode moments after leaving the ground. Alex insists that everyone get off the plane and 7 people including Alex, are forced to disembark. All watch as the plane actually explodes in a fireball. He and the other survivors have briefly cheated death, but will not be able to evade their fate for very long. One by one, these fugitives from fate fall victim to the grim reaper.",
+        "youtube_id": "x-MR-onocy0",
+        "img_banner": "Final_Destination.jpg",
+        "genre": "Horror, Thriller, Supernatural"
+    },
+    {
+        "id": 16,
+        "name": "Free Guy",
+        "rating": 7,
+        "description": "When a bank teller discovers he's actually a background player in an open-world video game, he decides to become the hero of his own story -- one that he can rewrite himself. In a world where there's no limits, he's determined to save the day his way before it's too late, and maybe find a little romance with the coder who conceived him.",
+        "youtube_id": "X2m-08cOAbc",
+        "img_banner": "Free_Guy.jpg",
+        "genre": "Action, Sci-Fi"
+    },
+    {
+        "id": 17,
+        "name": "Hitman's Bodyguard",
+        "rating": 7.6,
+        "description": "The world's top protection agent is called upon to guard the life of his mortal enemy, one of the world's most notorious hit men. The relentless bodyguard and manipulative assassin have been on the opposite end of the bullet for years and are thrown together for a wildly outrageous 24 hours. During their journey from England to the Hague, they encounter high-speed car chases, outlandish boat escapades and a merciless Eastern European dictator who is out for blood.",
+        "youtube_id": "IpKmt4MpctM",
+        "img_banner": "Hitman's_Bodyguard.jpg",
+        "genre": "Comedy, Action, Thriller"
+    },
+    {
+        "id": 18,
+        "name": "The Terminator",
+        "rating": 7.9,
+        "description": "Disguised as a human, a cyborg assassin known as a Terminator (Arnold Schwarzenegger) travels from 2029 to 1984 to kill Sarah Connor (Linda Hamilton). Sent to protect Sarah is Kyle Reese (Michael Biehn), who divulges the coming of Skynet, an artificial intelligence system that will spark a nuclear holocaust. Sarah is targeted because Skynet knows that her unborn son will lead the fight against them. With the virtually unstoppable Terminator in hot pursuit, she and Kyle attempt to escape.",
+        "youtube_id": "oxy8udgWRmo",
+        "img_banner": "Terminator.jpg",
+        "genre": "Action, Horror, Fantasy"
+    },
+    {
+        "id": 19,
+        "name": "The Adam Project",
+        "rating": 5.7,
+        "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self for a mission to save the future.",
+        "youtube_id": "IE8HIsIrq4o",
+        "img_banner": "The_Adam_Project.jpg",
+        "genre": "Comedy, Sci-Fi, Drama"
+    },
+    {
+        "id": 20,
+        "name": "Venom: Let There Be Carnage",
+        "rating": 7.3,
+        "description": "Journalist Eddie Brock is trying to take down Carlton Drake, the notorious and brilliant founder of the Life Foundation. While investigating one of Drake's experiments, Eddie's body merges with the alien Venom -- leaving him with superhuman strength and power. Twisted, dark and fueled by rage, Venom tries to control the new and dangerous abilities that Eddie finds so intoxicating.",
+        "youtube_id": "-FmWuCgJmxo",
+        "img_banner": "Venom.jpg",
+        "genre": "Action, Fantasy, Sci-Fi"
+    },
+    {
+        "id": 21,
+        "name": "The Gray Man",
+        "rating": 7.1,
+        "description": "When the CIA's top asset -- his identity known to no one -- uncovers agency secrets, he triggers a global hunt by assassins set loose by his ex-colleague.",
+        "youtube_id": "BmllggGO4pM",
+        "img_banner": "The_Gray_Man.jpg",
+        "genre": "Action, Thriller"
+    },
+    {
+        "id": 22,
+        "name": "The 355",
+        "rating": 6.3,
+        "description": "CIA agent Mason \"Mace\" Brown joins forces with a rival German agent, a cutting-edge computer specialist and a Colombian psychologist when a top-secret weapon falls into the hands of a group of mercenaries. Together, the four women embark on a breakneck mission to save the world while staying one step ahead of a mysterious figure who's tracking their every move.",
+        "youtube_id": "SV0s2S9reT0",
+        "img_banner": "The_355.jpg",
+        "genrdobaaraae": ""
+    },
+    {
+        "id": 23,
+        "name": "Lou",
+        "rating": 6.1,
+        "description": "A young girl is kidnapped during a powerful storm. Her mother joins forces with her mysterious neighbour to set off in pursuit of the kidnapper. Their journey will test their limits and expose the dark secrets of their past.",
+        "youtube_id": "QILhvR4QPsQ",
+        "img_banner": "Lou.jpg",
+        "genre": "Action, Spy, Thriller"
+    },
+    {
+        "id": 24,
+        "name": "Dobaaraa",
+        "rating": 5.8,
+        "description": "In the middle of a mysterious thunderstorm, a mother saves someone's life, which has unexpected consequences.",
+        "youtube_id": "DoAouCAhDW0",
+        "img_banner": "Dobaaraa.jpg",
+        "genre": "Horror, Thriller, Drama"
+    },
+    {
+        "id": 25,
+        "name": "Gold",
+        "rating": 7.6,
+        "description": "In the not-too-distant future, two drifters traveling through the desert stumble across the biggest gold nugget ever found, and the dream of immense wealth and greed takes hold. They hatch a plan to excavate their bounty with one man leaving to secure the necessary tools. The other man remains and must endure harsh desert elements, ravenous wild dogs and mysterious intruders while battling the sinking suspicion that he has been abandoned to his own fate.",
+        "youtube_id": "1HqBaI-FV7Y",
+        "img_banner": "Gold.jpg",
+        "genre": "Thriller, Survival"
+    },
+    {
+        "id": 26,
+        "name": "League of SuperPets",
+        "rating": 6.9,
+        "description": "Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, when the Man of Steel and the rest of the Justice League are kidnapped, Krypto must convince a ragtag group of animals to master their own newfound powers for a rescue mission.",
+        "youtube_id": "1jkw2JPCl18",
+        "img_banner": "Superpets.jpg",
+        "genre": "Animation, Action, Sci-Fi"
+    },
+    {
+        "id": 27,
+        "name": "Inception",
+        "rating": 8.6,
+        "description": "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious. His skill has made him a hot commodity in the world of corporate espionage but has also cost him everything he loves. Cobb gets a chance at redemption when he is offered a seemingly impossible task: Plant an idea in someone's mind. If he succeeds, it will be the perfect crime, but a dangerous enemy anticipates Cobb's every move.",
+        "youtube_id": "YoHD9XEInc0",
+        "img_banner": "Inception.jpg",
+        "genre": "Action, Sci-Fi, Drama"
+    },
+    {
+        "id": 28,
+        "name": "John Wick: Chapter 3 - Parabellum",
+        "rating": 8.9,
+        "description": "After gunning down a member of the High Table -- the shadowy international assassin's guild -- legendary hit man John Wick finds himself stripped of the organization's protective services. Now stuck with a $14 million bounty on his head, Wick must fight his way through the streets of New York as he becomes the target of the world's most ruthless killers.",
+        "youtube_id": "pU8-7BX9uxs",
+        "img_banner": "John_Wick_3.jpg",
+        "genre": "Action, Thriller"
+    },
+    {
+        "id": 29,
+        "name": "Luckiest Girl Alive",
+        "rating": 7.6,
+        "description": "As a teenager at the prestigious Bradley School, Ani FaNelli endured a shocking, public humiliation that left her desperate to reinvent herself. Now, with a glamorous job, expensive wardrobe, and handsome blue blood fiancé, she's this close to living the perfect life she's worked so hard to achieve.",
+        "youtube_id": "B_XUlbPW-eY",
+        "img_banner": "Luckiest_Girl_Alive.jpg",
+        "genre": ""
+    },
+    {
+        "id": 30,
+        "name": "Mario Movie",
+        "rating": 8.1,
+        "description": "A plumber named Mario travels through an underground labyrinth with his brother, Luigi, trying to save a captured princess. Feature film adaptation of the popular video game.",
+        "youtube_id": "KydqdKKyGEk",
+        "img_banner": "Mario_Movie.jpg_large",
+        "genre": "Thriller, Mystery, Drama"
+    },
+    {
+        "id": 31,
+        "name": "Smile",
+        "rating": 9,
+        "description": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
+        "youtube_id": "BcDK7lkzzsU",
+        "img_banner": "Smile.jpg",
+        "genre": "Horror"
+    },
+    {
+        "id": 32,
+        "name": "Interstellar",
+        "rating": 8.9,
+        "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
+        "youtube_id": "zSWdZVtXT7E",
+        "img_banner": "Interstellar.jpg",
+        "genre": "Sci-Fi, Adventure, Mystery"
+    }
+]

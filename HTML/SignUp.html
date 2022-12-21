@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Sign Up</title>
+
+        <link
+            rel="shortcut icon"
+            href="../Images/Log.png"
+            type="image/x-icon"
+        />
+        <link rel="stylesheet" href="../CSS/SignUp.css" />
+    </head>
+
+    <body>
+        <form action="../PHP/sign_up.php" method="post" class="sign_up">
+            <div class="title">
+                <label>Create Account</label><br /><br />
+                <hr />
+                <p><span>&#42;</span> are mandatory fields</p>
+            </div>
+
+            <div class="table">
+                <table border="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <label for="first"
+                                    >First Name<span>&#42;</span></label
+                                >
+                            </td>
+                            <td>
+                                <input
+                                    id="first"
+                                    type="text"
+                                    name="FirstName"
+                                    required
+                                />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <label for="last"
+                                    >Last Name<span>&#42;</span></label
+                                >
+                            </td>
+                            <td>
+                                <input
+                                    id="last"
+                                    type="text"
+                                    required
+                                    name="LastName"
+                                />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <label for="user"
+                                    >Username<span>&#42;</span></label
+                                >
+                            </td>
+                            <td>
+                                <input
+                                    id="user"
+                                    type="text"
+                                    required
+                                    name="Username"
+                                />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <label for="email"
+                                    >Email<span>&#42;</span></label
+                                >
+                            </td>
+                            <td>
+                                <input
+                                    id="email"
+                                    placeholder="example@company.com"
+                                    type="email"
+                                    name="Email"
+                                    required
+                                />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <label for="Password"
+                                    >Password<span>&#42;</span></label
+                                >
+                            </td>
+                            <td>
+                                <input
+                                    id="Password"
+                                    placeholder="Must be at least 8 characters"
+                                    type="password"
+                                    name="Password"
+                                    required
+                                />
+                            </td>
+                            <td>
+                                <i
+                                    class="fa-regular fa-circle-check"
+                                    id="check"
+                                ></i>
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <label for="rePassword"
+                                    >Re-Enter Password<span>&#42;</span></label
+                                >
+                            </td>
+                            <td>
+                                <input
+                                    id="rePassword"
+                                    type="password"
+                                    required
+                                />
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="phone">Phone Number</label></td>
+                            <td>
+                                <input id="phone" type="text" name="Phone#" />
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <input type="button" value="Sign Up" id="sign_btn" />
+            </div>
+
+            <div class="end">
+                <label id="text">Have an account?</label>
+                <a href="Login.html" id="login"
+                    >Log In <i class="fa-solid fa-shield-check"></i
+                ></a>
+            </div>
+        </form>
+
+        <div id="requirements" class="Requirements">
+            <label><strong>Password Requirements</strong></label>
+            <ul>
+                <li>Must be at least 8 characters</li>
+                <br />
+                <li>Must contain at least one number</li>
+                <br />
+                <li>Must contain at least one capital character</li>
+            </ul>
+        </div>
+
+        <!-- <script src="../JavaScript/sign_up.js"></script> -->
+        <script src="../JavaScript/font.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+        <script type="text/javascript">
+            let flag = false;
+
+            const style = (bool) => {
+                const style = {
+                    false: "visible",
+                    true: "hidden",
+                    VALID: `color: #228B22; transition : 0.25s;`,
+                    INVALID: `color: #FF0000; transition : 0.25s;`,
+                };
+
+                $("#requirements").css("visibility", style[bool]);
+                bool
+                    ? $("#check").attr("style", style.VALID)
+                    : $("#check").attr("style", style.INVALID);
+            };
+
+            const element = document.getElementById("sign_btn");
+            element.addEventListener("click", () => {
+                if (
+                    document.getElementById("Password").value ===
+                        document.getElementById("rePassword").value &&
+                    flag
+                ) {
+                    element.setAttribute("type", "submit");
+                }
+            });
+
+            $(document).ready(function () {
+                $("#rePassword").on({
+                    keyup: function () {
+                        if ($(this).val().length == 0) {
+                            $("#rePassword").attr("style", "");
+                            return;
+                        }
+                        if ($(this).val() == $("#Password").val()) {
+                            $("#rePassword").attr(
+                                "style",
+                                "border-bottom: 1px solid #228B22;"
+                            );
+                        } else {
+                            $("#rePassword").attr(
+                                "style",
+                                "border-bottom: 1px solid #FF0000;"
+                            );
+                        }
+                    },
+                });
+
+                $("#Password").on({
+                    keyup: function () {
+                        if ($(this).val().length == 0) {
+                            $("#requirements").css("visibility", "hidden");
+                            $("#check").attr("style", "");
+                            return;
+                        }
+
+                        $.post(
+                            "../PHP/signupAJAX.php?mode=" + $(this).val(),
+                            function (data) {
+                                if (data == "false") {
+                                    style(false);
+                                    flag = false;
+                                } else {
+                                    style(true);
+                                    flag = true;
+                                }
+                            }
+                        );
+                    },
+                });
+            });
+        </script>
+    </body>
+</html>
